@@ -10,9 +10,8 @@
 [3. Walkthrough Videos](#Walkthrough-Videos)  
 [4. Installation](#Installation)  
 [5. Tests](#Tests)  
-[6. License Details](#License-Details)  
-[7. Submission](#Submission)   
-[8. Questions](#Questions) 
+[6. License Details](#License)  
+[7. Questions](#Questions) 
    
    
 ### Description
@@ -151,7 +150,7 @@ This project is licensed under MIT, for more information please visit [this webs
 
 Made by MCX
 
-## Questions?
+## Questions
 
 Please feel free to contact me if you need any further information:
 
