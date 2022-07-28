@@ -1,0 +1,29 @@
+{
+  "name": "challenge-module18-bc",
+  "version": "1.0.0",
+  "description": "Module 18 NoSQL Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mcnoor/Challenge-Module18-BC-"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mcnoor/Challenge-Module18-BC-/issues"
+  },
+  "homepage": "https://github.com/Mcnoor/Challenge-Module18-BC-#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.28.0",
+    "mongoose": "^5.10.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
