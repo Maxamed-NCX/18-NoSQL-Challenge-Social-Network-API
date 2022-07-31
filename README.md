@@ -85,8 +85,8 @@ Test  API  with Insomnia or PostMan
     ```json
     // example data
     {
-        "username": "JohnnySmith",
-        "email": "johnnysmith@gmail.com"
+        "username": "SpongeBob",
+        "email": "spongebob@squarepants.com"
     }
     ```
 ---
@@ -106,8 +106,8 @@ Test  API  with Insomnia or PostMan
     // example data
     {
     "thoughtText": "Here's a cool thought...",
-    "username": "JohnnySmith",
-    "userId": "5edff238a0fsdcb779aa7df18b"
+    "username": "SpongeBob",
+    "userId": "5edff2yrtdcb77943ara7df18b"
     }
     ```
 ---
@@ -123,8 +123,8 @@ Test  API  with Insomnia or PostMan
     ```json
     // example data
     {
-    "reactionBody":"Hell Yeah!!",
-    "username":"JohnnySmith"
+    "reactionBody":"Are you Ready?!",
+    "username":"Spongebob"
     }
     ```
 ---
