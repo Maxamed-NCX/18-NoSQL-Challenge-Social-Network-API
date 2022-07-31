@@ -1,6 +1,6 @@
-# Challenge-Module18-BC
+# NoSQL Challenge: Social Network API 
 
-## NoSQL Challenge: Social Network API
+## Challenge-Module18-BC
       
 ![](https://img.shields.io/badge/Created%20by-Maxamed%20-Noor%20Xassan-blue?style=for-the-badge)  
 ![](https://img.shields.io/badge/Database-MongoDB-yellow?style=flat-square&logo=mongoDB)  ![](https://img.shields.io/badge/npm%20package-express-orange?style=flat-square&logo=npm) ![](https://img.shields.io/badge/npm%20package-mongoose-cyan?style=flat-square&logo=npm) ![](https://img.shields.io/badge/npm%20package-moment-%3CCOLOR%3E?style=flat-square&logo=npm)
