@@ -124,7 +124,7 @@ Test  API  with Insomnia or PostMan
     // example data
     {
     "reactionBody":"Are you Ready?!",
-    "username":"Spongebob"
+    "username":"SpongeBob"
     }
     ```
 ---
