@@ -105,7 +105,7 @@ Test  API  with Insomnia or PostMan
     ```json
     // example data
     {
-    "thoughtText": "Here's a cool thought...",
+    "thoughtText": "Here at Krabby Patty...",
     "username": "SpongeBob",
     "userId": "5edff2yrtdcb77943ara7df18b"
     }
