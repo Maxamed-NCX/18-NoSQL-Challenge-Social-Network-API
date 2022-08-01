@@ -135,11 +135,11 @@ Test  API  with Insomnia or PostMan
 ## Walkthrough Videos
 ####  Video
 
-[Click me to see the demo video!]()
+[Click me to see the demo video!](https://watch.screencastify.com/v/Roqcki8b4wmArRr9NJEN)
 
-#### Insomnia Screenshot
+#### Postman Screenshot
 
-![Screenshot](.)
+![Screenshot](https://raw.githubusercontent.com/Mcnoor/Challenge-Module18-BC-/main/media/postman-challege-18.png)
 
 ## License
 
